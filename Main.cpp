@@ -18,7 +18,7 @@
 #include "ui_welcome.h"
 
 void aboutClicked() {
-    AboutDialog::show(); //Jason Comment
+    AboutDialog::show(); //Jason Comment Jetzt geht's los
 }
 
 void loadClicked(QMainWindow &welcomeWindow) {
